@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SpriteProj
+#
+
+projectname: SpriteProj
+vendorid: com.spriteproj
+mainmodule: com.spriteproj.spriteproj
